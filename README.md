@@ -35,4 +35,9 @@ A detailed explanation of the analysis process is available in the PDF file incl
 
 [Documentacion + Hasenhundl.pdf](https://github.com/user-attachments/files/25723868/Documentacion.%2B.Hasenhundl.pdf)
 
+## Power BI File
+The Power BI file of this project can be downloaded here: https://drive.google.com/drive/folders/14JE-kYUaaEVuU1A1g0CR5vYTyQdJtLOH?usp=sharing
+
+
+
 
